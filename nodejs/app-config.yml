@@ -1,1 +1,1 @@
-message : "Hello, %s from a ConfigMap !"
+message : "Hello-hey, %s from a ConfigMap !"
